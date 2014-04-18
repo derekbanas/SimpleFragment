@@ -3,6 +3,8 @@
     package="com.newthinktank.simplefragment"
     android:versionCode="1"
     android:versionName="1.0" >
+    
+    <!-- Random Comment -->
 
     <uses-sdk
         android:minSdkVersion="11"
