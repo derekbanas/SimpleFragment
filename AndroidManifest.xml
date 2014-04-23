@@ -5,7 +5,7 @@
     android:versionName="1.0" >
     
     <!-- Random Comment 4 -->
-
+    <!-- Hot Fix -->
     <uses-sdk
         android:minSdkVersion="11"
         android:targetSdkVersion="17" />
